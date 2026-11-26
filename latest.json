@@ -1,6 +1,6 @@
 {
-  "version": "0.0.15",
-  "url": "https://raw.githubusercontent.com/mmtlovesh-tech/tg-madad/main/updates/tg-madad-app-0.0.15.zip",
-  "sha256": "208452a5c10778ca85e3a951440c288d117b8359d07cba0e9d51435ad83bab0a",
-  "notes": "Новый светлый дизайн: белые карточки с мягкими тенями, синие кнопки, шрифт Inter (работает без интернета), единые меню, формы, таблицы и статистика. ИИ занимает на 1 ГБ меньше памяти (≈1,6–1,9 ГБ вместо 2,9) и выгружается через 3 минуты простоя. Длинные переписки больше не ломают ИИ."
+  "version": "0.0.16",
+  "url": "https://raw.githubusercontent.com/mmtlovesh-tech/tg-madad/main/updates/tg-madad-app-0.0.16.zip",
+  "sha256": "2f66b66c99c9939ee17858ce68335529b88cb0c04f17c1caa42b5d43bb5d0cb4",
+  "notes": "Кнопка «светлая / тёмная тема» в шапке (☾ / ☀). Тёмная тема — мягкая, тёмно-синяя. Выбор запоминается."
 }
