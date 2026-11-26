@@ -1,6 +1,6 @@
 {
-  "version": "0.0.11",
-  "url": "https://raw.githubusercontent.com/mmtlovesh-tech/tg-madad/main/updates/tg-madad-app-0.0.11.zip",
-  "sha256": "fda1aa76297ef93a0b525e6257c53c40bd9f7524dede145fb51492615d1242b6",
-  "notes": "Бот сам пишет «Заявкам» 5–10 в день; честно отвечает «откуда номер / я не оставлял заявку»; понимает короткий адрес обновлений mmtlovesh-tech/tg-madad."
+  "version": "0.0.12",
+  "url": "https://raw.githubusercontent.com/mmtlovesh-tech/tg-madad/main/updates/tg-madad-app-0.0.12.zip",
+  "sha256": "e0b98d6f33d531945460b0272451cadba216daee61fe50247d0c2072a0565bf9",
+  "notes": "Бот не знает ответа — клиенту ничего не пишет, а менеджеру приходит WhatsApp «Не могу ответить на вопрос»; записи на звонок — менеджеру с датой, временем и номером. Бот сам пишет «Заявкам» 5–10 в день; честно отвечает «откуда номер»."
 }
