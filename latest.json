@@ -1,6 +1,6 @@
 {
-  "version": "0.0.10",
-  "url": "https://raw.githubusercontent.com/mmtlovesh-tech/tg-madad/main/updates/tg-madad-app-0.0.10.zip",
-  "sha256": "508798f8b8421693083eb8e621b5b373db8e836ab523d35ac3a9e6700cd8b793",
-  "notes": "Исправлено «Ожидание сообщения» у клиентов; бот понимает смайлики и «?»; бот читает и объясняет документы клиента."
+  "version": "0.0.11",
+  "url": "https://raw.githubusercontent.com/mmtlovesh-tech/tg-madad/main/updates/tg-madad-app-0.0.11.zip",
+  "sha256": "fda1aa76297ef93a0b525e6257c53c40bd9f7524dede145fb51492615d1242b6",
+  "notes": "Бот сам пишет «Заявкам» 5–10 в день; честно отвечает «откуда номер / я не оставлял заявку»; понимает короткий адрес обновлений mmtlovesh-tech/tg-madad."
 }
