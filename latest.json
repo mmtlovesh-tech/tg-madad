@@ -1,0 +1,6 @@
+{
+  "version": "0.0.10",
+  "url": "https://raw.githubusercontent.com/mmtlovesh-tech/tg-madad/main/updates/tg-madad-app-0.0.10.zip",
+  "sha256": "508798f8b8421693083eb8e621b5b373db8e836ab523d35ac3a9e6700cd8b793",
+  "notes": "Исправлено «Ожидание сообщения» у клиентов; бот понимает смайлики и «?»; бот читает и объясняет документы клиента."
+}
